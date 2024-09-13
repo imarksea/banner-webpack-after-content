@@ -1,0 +1,35 @@
+{
+  "name": "banner-webpack-after-content",
+  "version": "1.0.1",
+  "description": "append content after js bundle",
+  "keywords": [
+    "front-end",
+    "web",
+    "webpack",
+    "plugin",
+    "building tool",
+    "banner-webpack"
+  ],
+  "homepage": "https://github.com/imarksea/banner-webpack-plugin",
+  "bugs": {
+    "url": "https://github.com/imarksea/banner-webpack-plugin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:imarksea/banner-webpack-plugin.git"
+  },
+  "author": "imarksea",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+  },
+  "license": "MIT"
+}
