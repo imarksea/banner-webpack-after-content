@@ -1,7 +1,6 @@
-# banner-webpack-plugin
+# banner-webpack-after-content
 
 ### Introduction
-
 append content before or after js bundle
 
 
