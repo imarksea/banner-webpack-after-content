@@ -10,13 +10,13 @@
     "building tool",
     "banner-webpack"
   ],
-  "homepage": "https://github.com/imarksea/banner-webpack-plugin",
+  "homepage": "https://github.com/imarksea/banner-webpack-after-content",
   "bugs": {
-    "url": "https://github.com/imarksea/banner-webpack-plugin/issues"
+    "url": "https://github.com/imarksea/banner-webpack-after-content/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:imarksea/banner-webpack-plugin.git"
+    "url": "git@github.com:imarksea/banner-webpack-after-content.git"
   },
   "author": "imarksea",
   "files": [
